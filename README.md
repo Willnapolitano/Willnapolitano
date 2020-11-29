@@ -3,13 +3,23 @@
 
 #### <h4 align='center'>I'm a Jr. developer always looking to be better than I was yesterday, passionate about technology and discovering a totally new and incredible world that programming and technology is capable of providing us with.<h4>
 ________________________________________________________________________________________________________________________
-<h5 align='center'>- 🌱 I’m currently learning=$[Javascript, html5, css3, php, mysql and more]</h5>
-<h5 align='center'>-👯 I’m looking to collaborate on=$[Open source projects]</h5>
+  
+<p align="center">
+  <a href="https://api.whatsapp.com/send?phone=5561995628227&text=Hello%20World!">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>&nbsp;
 
+  <a href="https://www.instagram.com/_willdev/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>&nbsp;
 
-_____________________________________________________________________________________________
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willnapolitano)
-_____________________________________________________________________________________________
-![Willnapolitano github stats](https://github-readme-stats.vercel.app/api?username=Willnapolitano&theme=tokyonight&show_icons=true)
-___________________________________________________________________________________________________________________
-![HitCount](http://hits.dwyl.com/Willnapolitano/Willnapolitano.svg)
+</p>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Willnapolitano&theme=tokyonight&show_icons=true"/>
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willnapolitano"/>
+<p align="center">
+  <img src="http://hits.dwyl.com/Willnapolitano/Willnapolitano.svg"/>
+</p>
+
